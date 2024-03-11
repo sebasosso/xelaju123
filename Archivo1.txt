@@ -1,9 +1,7 @@
-<<<<<<< HEAD
+
 hola universo
 vavva
-=======
 hola mundoo
 xelaju123
 aaaa
->>>>>>> 788b809144006013ced27f87d2d76d7746771302
 afka
